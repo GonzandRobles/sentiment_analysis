@@ -64,12 +64,6 @@ You can also see my Medium analysis of this project on this link:
 
 https://medium.com/@GonzandRobles25/coffee-shop-sentiment-analysis-dbf8d3c333e
 
-6. License
-
-MIT license
-License
-Copyright 2020 © Eduardo González.
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
