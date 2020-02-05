@@ -60,10 +60,9 @@ I'm happy to receive feedback and suggestions for better readability, cleaner co
 
 I'm the only one who has contributed to this repository so far, but I want to mention some sources where I got the ideas for this repository, starting with Bluebeard Coffee Roasters in Tacoma that provided the inspiration for this project and to Yelp.
 
-You can see my Medium analysis of this project on this link: 
+You can see the Medium analysis of this project on this link: 
 
 https://medium.com/@GonzandRobles25/coffee-shop-sentiment-analysis-dbf8d3c333e
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
